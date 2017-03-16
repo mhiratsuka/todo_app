@@ -1,4 +1,4 @@
-#todo list
+# todo list
 ## This is an assignment for week8 
 ### The goal of this project
 + create a new todo
